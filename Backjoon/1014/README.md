@@ -15,5 +15,5 @@
 		+ 시간이 빨라진 것은 배열을 초기화 할때 비용이 줄었기 때문이라고 생각한다.
 
 ***
-[문제](https://www.acmicpc.net/problem/2193)
+[문제](https://www.acmicpc.net/problem/1013)
 			 

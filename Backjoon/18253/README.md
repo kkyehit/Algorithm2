@@ -46,5 +46,5 @@
 		
 - Good Bye, BOJ 2019! > G
 ***
-[문제](https://www.acmicpc.net/problem/18250)
+[문제](https://www.acmicpc.net/problem/18253)
 			 

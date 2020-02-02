@@ -1,5 +1,5 @@
 # 투튜브
-### 17834
+### 17954
 ***
 - 구현문제
 	+ 배열의 형태가
@@ -10,5 +10,5 @@
 - 실패원인 : N이 1인 경우를 고려하지 못하였다.
 - 제6회 한양대학교 프로그래밍 경시대회 Beginner Division G번
 ***
-[문제](https://www.acmicpc.net/problem/17943)
+[문제](https://www.acmicpc.net/problem/17954)
 			 

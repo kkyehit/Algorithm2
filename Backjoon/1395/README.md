@@ -12,6 +12,7 @@
 		- 시간초과
 		- 해결방안 : 접근할 때 업데이트 하는 lazy propagation으로 구현
 	
+	
 ***
 [문제](https://www.acmicpc.net/problem/1395)
 			 

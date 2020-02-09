@@ -18,7 +18,8 @@
 	
    			return x < n.x ? true : y > n.y
 		
-		- 위와 같이 구현하였는데 sort()함수에서 무한 루프에 빠질 수 있다.
+		- 위와 같이 구현하였는데 x 와 n.x가 같을 때에만 y값을 비교해야한다.
+		
 		
     		return x == n.x ? y > n.y : x < n.x
 		

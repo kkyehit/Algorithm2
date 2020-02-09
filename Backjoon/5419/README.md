@@ -16,11 +16,11 @@
 - 실패원인
 	1. 연산자 오버로딩을 하면서 실수가 있었다.
 	
-   		return x < n.x ? true : y > n.y
+   			return x < n.x ? true : y > n.y
 		
 		- 위와 같이 구현하였는데 sort()함수에서 무한 루프에 빠질 수 있다.
 		
-    	return x == n.x ? y > n.y : x < n.x
+    		return x == n.x ? y > n.y : x < n.x
 		
 		- 와 같이 구현하여야 한다.
 	2. 결과 값이 int범위 이상이다.

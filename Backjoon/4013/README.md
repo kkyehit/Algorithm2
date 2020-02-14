@@ -9,6 +9,7 @@
 	+ 한 SCC에서 탐색할 수 있는 다른 SCC가 있다면 다른 SCC의 들어가는 간선 수를 감소시키고 이 값이 0이 되면 queue에 추가하여 계속 탐색한다.
 	+ 은행이 포함된 SCC중 최대 값을 출력한다.
 	
+- [참고한 블로그](https://blog.naver.com/PostView.nhn?blogId=kks227&logNo=220802519976&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
 ***
 [문제](https://www.acmicpc.net/problem/4013)
 			 
